@@ -21,7 +21,7 @@ Numpy, matplotlip and numba
 
 ## Aknowledgments
 
-I used this notebook fir reference: https://uio-ccse.github.io/computational-essay-showroom/essays/exercises/essayseeds/MagneticBottle_Numpy.html
+I used this notebook for reference: https://uio-ccse.github.io/computational-essay-showroom/essays/exercises/essayseeds/MagneticBottle_Numpy.html
 
 ## License
 
