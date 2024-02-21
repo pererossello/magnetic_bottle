@@ -1,0 +1,14 @@
+results/
+images/
+notes/
+figures/
+blender/
+data/
+
+code/__pycache__/
+code/bin/
+code/old/
+code/png_to_mp4.ipynb
+code/little_notebook.ipynb
+code/test copy.ipynb
+code/test.ipynb
